@@ -3,5 +3,5 @@
     <version>0.1.0.2</version>
     <url>https://github.com/gninraw/MediSupport/releases/download/0.1.0.2/MediSupport-0.1.0.2.zip</url>
     <changelog>https://github.com/gninraw/MediSupport/releases</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
