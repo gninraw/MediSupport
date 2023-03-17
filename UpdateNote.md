@@ -1,3 +1,14 @@
+0.1.0.6
+-
+- 단축키 설정
+- 화면 띄우기 / 숨기기 : Shift + Alt + Z
+- DrugInteraction : Shift + Alt + X
+- 한글 약제 인식 최소단위를 2글자로 변경
+- 서방정 삭제 기능 추가 
+- liver, creatinine, glucose, EDTA, ambulation, position, diet, lupus, plasma 단어 삭제 기능 추가
+
+
+
 0.1.0.4
 -
 - DB 변경으로 인한 로그인 기능 및 서버 기능 변경중
