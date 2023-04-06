@@ -1,3 +1,15 @@
+0.1.0.7
+ - Config 파일 추가
+ - CompleteRemoveKeyword : 완전일치시 삭제 단어
+- ContainRemoveKeyword : 추출된 단어에서 삭제할 단어
+- Rect : 이전에 단어 검출 시 사용된 Range
+- FilterKeyword : 최종 검출단어 중 제외할 단어
+- MaxKeywordCount : 키워드로 검출된 성분 최대값 (기본 4)
+- 인터렉션 표시 안되던 버그 수정
+- 키워드 조회 결과 없을 경우 노란색으로 표시
+- 주사 로 끝나는 단어 검출
+- 중복 키워드 검출시 중복제거
+
 0.1.0.6
 -
 - 단축키 설정
