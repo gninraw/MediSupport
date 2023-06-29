@@ -1,3 +1,6 @@
+0.1.0.8
+ - API 기능 추가 및 연결
+
 0.1.0.7
  - Config 파일 추가
  - CompleteRemoveKeyword : 완전일치시 삭제 단어
