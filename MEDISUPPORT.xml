@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.1.0.17</version>
-    <url>https://github.com/gninraw/MediSupport/releases/download/0.1.0.17/MediSupport-0.1.0.17.zip</url>
+    <version>0.1.0.18</version>
+    <url>https://github.com/gninraw/MediSupport/releases/download/0.1.0.18/MediSupport-0.1.0.18.zip</url>
     <changelog>https://raw.githubusercontent.com/gninraw/MediSupport/main/UpdateNote.md</changelog>
     <mandatory>true</mandatory>
 </item>
