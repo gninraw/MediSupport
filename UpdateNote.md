@@ -1,3 +1,12 @@
+0.2.0.2
+- 
+- 수유 안전성 화면 제작
+- renal dose - 테이블 1,2의 상하위치를 변경
+- renal dose -데이터가 없는것은 There is no Category data in our DB. 로 기술
+- renal dose - more info에서 renal replacement 삭제
+- 임신약재 - FDA, AUS-TGA, KFDA 중 하나라도 있으면 공백 또는 - 모두 없으면 no category in FDA
+
+
 0.2.0.0
 -
 - 모니터 선택 버튼 추가
