@@ -1,3 +1,9 @@
+0.2.0.4
+-
+- PRESCRIPTION 창 추가 및 CSV 저장 기능 추가
+- PRESCRIPTION 과 중복되는 OCR 또는 추가 약재가 있을 경우 PRESCRIPTION 의 약재를 붉은색으로 표시
+- PRESCRIPTION CSV 저장기능 > PRESCRIPTION 창으로 이동 후 CSV EXPORT 수행시 저장하는 방식으로 변경
+
 0.2.0.3
 - 
 -단축키 정보 및 프로그램 안내 팝업 추가
